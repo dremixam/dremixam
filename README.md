@@ -25,7 +25,7 @@ My creations are only endorsed by those who believe in them.
 
 ---
 
-## 🤖 Léon le Robot (The Streaming Lab)
+## 🤖 Léon le Robot
 
 Léon is my custom-built, closed-source digital co-host. He is designed to interact naturally with both the broadcaster and the viewers, featuring a deep personality and his own unique lore.
 
@@ -55,7 +55,7 @@ Active modder and creator on [Modrinth](https://modrinth.com/user/dremixam), spe
 - **[RAGE Photo Manager](https://github.com/dremixam/rage-photo-manager):** A standalone open-source desktop utility allowing *GTA V* and *Red Dead Redemption 2* players to instantly extract and manage their local in-game camera snapshots on PC, completely bypassing Rockstar's online social platform constraints.
 
 #### 🌐 Web, Tools & Transmedia
-- **[La COGIP](https://cogip.tv):** Founder of this collaborative streaming network and event collective, built as a mutual-aid hub for French-speaking content creators sharing progressive left-wing values.
+- **[La COGIP](https://cogip.tv):** Co-Founder of this collaborative streaming network and event collective, built as a mutual-aid hub for French-speaking content creators sharing progressive left-wing values.
 - **[PurpleSky](https://github.com/dremixam/purplesky):** A custom automation tool designed for the decentralized **Bluesky** network. It listens to the Twitch API and dynamically updates the user's Bluesky avatar and profile with a "LIVE" badge whenever a stream starts. Follow the updates on my official profile: [@dremixam.com](https://bsky.app/profile/dremixam.com).
 - **Clyde Vanilla (2017):** Lead web developer for Antoine Daniel’s audio fiction project, handling the main portal where episodes were published and building the dedicated community forum.
 - **[The Liberty-Tree](https://liberty-tree.net):** A historic French-speaking parodic news and text-RP portal set in the GTA universe. Originally launched in 2001, it features over 900 articles archived during a major overhaul in 2016. The site remains online as a historical record, highlighted by Rockstar Games on their *Newswire* in 2012.
