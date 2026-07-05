@@ -51,7 +51,7 @@ Active modder and creator on [Modrinth](https://modrinth.com/user/dremixam), spe
 - Participated on-stream by bringing the main storyline character **Emile Xam** to life.
 
 #### 🏥 The GTA V / FiveM RAGE Engine Era
-- **MLO & Interior Reverse Engineering (2015-2016):** Contributed to the pioneering early community efforts to reverse-engineer how MLOs (interiors) behave within Rockstar's RAGE engine. Created the original open-source [Central Medical Los Santos MLO](https://www.gta5-mods.com/maps/central-medical-los-santos-interior-mlo) hospital interior to demonstrate native multi-room rendering, laying the structural groundwork for modern GTA RP mapping.
+- **MLO & Interior Reverse Engineering (2015-2016):** Contributed to the pioneering early community efforts to reverse-engineer how MLOs (interiors) behave within Rockstar's RAGE engine in GTAV. Created the original open-source [Central Medical Los Santos MLO](https://www.gta5-mods.com/maps/central-medical-los-santos-interior-mlo) hospital interior to demonstrate native multi-room rendering, laying the structural groundwork for modern GTA RP mapping.
 - **[RAGE Photo Manager](https://github.com/dremixam/rage-photo-manager):** A standalone open-source desktop utility allowing *GTA V* and *Red Dead Redemption 2* players to instantly extract and manage their local in-game camera snapshots on PC, completely bypassing Rockstar's online social platform constraints.
 
 #### 🌐 Web, Tools & Transmedia
