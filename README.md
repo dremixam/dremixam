@@ -57,7 +57,7 @@ Active modder and creator on [Modrinth](https://modrinth.com/user/dremixam), spe
 #### 🌐 Web, Tools & Transmedia
 - **[La COGIP](https://cogip.tv):** Founder of this collaborative streaming network and event collective, built as a mutual-aid hub for French-speaking content creators sharing progressive left-wing values.
 - **[PurpleSky](https://github.com/dremixam/purplesky):** A custom automation tool designed for the decentralized **Bluesky** network. It listens to the Twitch API and dynamically updates the user's Bluesky avatar and profile with a "LIVE" badge whenever a stream starts. Follow the updates on my official profile: [@dremixam.com](https://bsky.app/profile/dremixam.com).
-- **Clyde Vanilla (2014-2016):** Lead web developer for Antoine Daniel’s audio fiction project, handling the main portal where episodes were published and building the dedicated community forum.
+- **Clyde Vanilla (2017):** Lead web developer for Antoine Daniel’s audio fiction project, handling the main portal where episodes were published and building the dedicated community forum.
 - **[The Liberty-Tree](https://liberty-tree.net):** A historic French-speaking parodic news and text-RP portal set in the GTA universe. Originally launched in 2001, it features over 900 articles archived during a major overhaul in 2016. The site remains online as a historical record, highlighted by Rockstar Games on their *Newswire* in 2012.
 
 ---
